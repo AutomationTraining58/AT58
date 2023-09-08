@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-03T18:02:50 IST" name="Suite" finished-at="2023-09-03T18:02:52 IST" duration-ms="2009">
+    <groups>
+    </groups>
+    <test started-at="2023-09-03T18:02:50 IST" name="Test" finished-at="2023-09-03T18:02:52 IST" duration-ms="2009">
+      <class name="testcases.TimeSheetModule">
+        <test-method signature="navigateToTimeSheetModule()[pri:0, instance:testcases.TimeSheetModule@7f37b6d9]" started-at="2023-09-03T18:02:51 IST" name="navigateToTimeSheetModule" finished-at="2023-09-03T18:02:52 IST" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTimeSheetModule -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.TimeSheetModule@7f37b6d9]" started-at="2023-09-03T18:02:52 IST" name="closeBrowser" finished-at="2023-09-03T18:02:52 IST" duration-ms="119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.TimeSheetModule -->
+      <class name="testcases.ApplyLeaveModule">
+        <test-method signature="navigateToApplyLeaveModule()[pri:0, instance:testcases.ApplyLeaveModule@75d982d3]" started-at="2023-09-03T18:02:50 IST" name="navigateToApplyLeaveModule" finished-at="2023-09-03T18:02:51 IST" duration-ms="726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToApplyLeaveModule -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ApplyLeaveModule@75d982d3]" started-at="2023-09-03T18:02:51 IST" name="closeBrowser" finished-at="2023-09-03T18:02:51 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testcases.ApplyLeaveModule -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
