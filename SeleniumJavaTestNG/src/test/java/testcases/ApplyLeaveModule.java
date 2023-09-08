@@ -49,5 +49,16 @@ public class ApplyLeaveModule {
 		driver.close();	
 		}
 
+	@Test
+	public void testcasedevlopedByUserC()
+	{
+		System.out.println("user c developed");
+	}
+	
+	@Test
+	public void testcasedevlopedByUserDC()
+	{
+		System.out.println("user Dc developed");
+	}
 	
 }
